@@ -531,6 +531,7 @@
 				FCB8A7871C3722CE0090AB6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FCB8A7881C3722CE0090AB6F /* Build configuration list for PBXNativeTarget "MovingImageTests" */ = {
 			isa = XCConfigurationList;
@@ -539,6 +540,7 @@
 				FCB8A78A1C3722CE0090AB6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FCB8A78B1C3722CE0090AB6F /* Build configuration list for PBXNativeTarget "MovingImageUITests" */ = {
 			isa = XCConfigurationList;
@@ -547,6 +549,7 @@
 				FCB8A78D1C3722CE0090AB6F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

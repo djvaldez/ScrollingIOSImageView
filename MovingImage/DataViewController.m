@@ -51,7 +51,7 @@
                                        myImageView.frame.size.height);
         // Move image to the left until the right edge of the image is touching the right side of
         // the screen, then reverse and repeat
-        [UIView animateWithDuration:5.0f
+        [UIView animateWithDuration:45.0f
                                   delay:0.0f
                                 options:UIViewAnimationOptionRepeat | UIViewAnimationOptionAutoreverse
                              animations:^{
